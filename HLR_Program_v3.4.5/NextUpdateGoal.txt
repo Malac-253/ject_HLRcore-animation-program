@@ -1,0 +1,3 @@
+1) independent part stroke with determining by part json count
+2) creat fake box around chars for better BBox detection this will make the move orighn better
+3)https://stackoverflow.com/questions/17786618/how-to-use-z-index-in-svg-elements make the arms above
